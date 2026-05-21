@@ -24,3 +24,12 @@ I enjoy uncovering patterns, creating visualizations, and translating data into 
 - 🤝 Open to collaboration opportunities and analytical projects
 - ⚡ Fun fact: discipline from calisthenics taught me consistency — the same mindset I apply to learning data analytics
 - 🌎 Spanish (Native) · English B2
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| 🎮 [Global Video Game Market Strategic Analysis](#) | End-to-end analysis of historical video game sales data to identify market trends, successful genres, platform performance, and customer behavior patterns. Generated strategic insights to support data-driven marketing and business decisions. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, Hypothesis Testing | ✅ Complete |
+| 📱 [Mobile Plans Profitability Analysis](#) | Revenue and user behavior analysis based on mobile consumption patterns (calls, SMS, and internet usage). Identified profitability drivers, seasonal trends, and customer spending behavior to support commercial strategy decisions. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, Hypothesis Testing | ✅ Complete |
