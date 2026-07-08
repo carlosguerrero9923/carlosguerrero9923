@@ -33,25 +33,26 @@ I enjoy uncovering patterns, creating visualizations, and translating data into 
 |---|---|---|---|
 | 🎮 [Global Video Game Market Strategic Analysis](#) | End-to-end analysis of historical video game sales data to identify market trends, successful genres, platform performance, and customer behavior patterns. Generated strategic insights to support data-driven marketing and business decisions. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, Hypothesis Testing | ✅ Complete |
 | 📱 [Mobile Plans Profitability Analysis](#) | Revenue and user behavior analysis based on mobile consumption patterns (calls, SMS, and internet usage). Identified profitability drivers, seasonal trends, and customer spending behavior to support commercial strategy decisions. | Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, EDA, Hypothesis Testing | ✅ Complete |
+| 🛒 [Conversion Funnel & A/A/B User Experience Analysis](#) | Conversion funnel analysis for a food product mobile app, identifying the stage with the highest user drop-off. Evaluated an A/A/B experiment to measure whether a font change impacted user behavior and conversion rate using proportion hypothesis testing. | Python, Pandas, NumPy, Matplotlib, SciPy, Statsmodels, Hypothesis Testing | ✅ Complete |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming & Data Analysis**  
+**Programming & Data Analysis**
 `Python` `SQL` `Pandas` `NumPy` `SciPy`
 
-**Data Visualization & BI**  
+**Data Visualization & BI**
 `Tableau` `Matplotlib` `Seaborn` `Data Storytelling`
 
-**Analytics & Statistics**  
+**Analytics & Statistics**
 `Exploratory Data Analysis (EDA)` `Hypothesis Testing` `Statistical Analysis` `Data Cleaning`
 
-**Databases & Data Management**  
+**Databases & Data Management**
 `SQL Queries` `Data Transformation` `ETL Fundamentals`
 
-**Tools & Development**  
+**Tools & Development**
 `Jupyter Notebook` `Git` `GitHub` `VS Code`
 
-**Business & Methodologies**  
+**Business & Methodologies**
 `Business Analysis` `Problem Solving` `Agile/Scrum` `Project Management`
